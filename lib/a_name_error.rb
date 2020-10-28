@@ -1,3 +1,3 @@
-greeting = "hello world"
+greeting = "hello there"
 greeting
-puts "hello world" 
+ # => "hello there"
